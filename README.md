@@ -1,4 +1,4 @@
-spring-distilled-koan-1
+# Spring Distilled: Koan 1
 =======================
 
 The first koan in the Spring Distilled series.
